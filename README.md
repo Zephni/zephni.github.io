@@ -1,2 +1,2 @@
 # zephni.github.io
-For hosting tests etc
+"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
